@@ -3,7 +3,9 @@ Contexto e Objetivos: Há um interesse crescente em compreender a Bíblia para a
 Curadoria de Fontes: 
 
 1 - https://ethiopianorthodoxbible.wordpress.com/2025/09/17/a-complete-list-of-all-the-ethiopian-orthodox-bible-books-already-in-english/
-2 -
+2 - https://dpul.princeton.edu/ethiopic_manuscripts/catalog/8336h5635
+3 - https://www.euclid.int/papers/Anke%20Wanger%20-%20Canon%20in%20the%20EOTC.pdf
+4 -
 
 Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
 
