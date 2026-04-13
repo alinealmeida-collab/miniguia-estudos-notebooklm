@@ -1,4 +1,5 @@
-Contexto e Objetivos: Há um interesse crescente em compreender a Bíblia para além do sentido literal, explorando significados implícitos, simbolismos e conexões entre passagens. Com o uso do Notebook LLM poderei apoiar análises de forma estruturada, integrando diferentes perspectivas interpretativas. Tendo como objetivo, desenvolver um Notebook LLM que auxilie na identificação e interpretação de elementos não explícitos da Bíblia, gerando insights de forma organizada e fundamentada.
+Contexto e Objetivos: 
+Há um interesse crescente em compreender a Bíblia para além do sentido literal, explorando significados implícitos, simbolismos e conexões entre passagens. Com o uso do Notebook LLM poderei apoiar análises de forma estruturada, integrando diferentes perspectivas interpretativas. Tendo como objetivo, desenvolver um Notebook LLM que auxilie na identificação e interpretação de elementos não explícitos da Bíblia, gerando insights de forma organizada e fundamentada.
 
 Curadoria de Fontes: 
 
@@ -14,7 +15,8 @@ Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que v
 
 Miniguia de Estudo (Entrega Final): Apresente o resultado final consolidado, que deve conter:
 
-Resumos estruturados do assunto;
+Resumos estruturados do assunto:
+Há uma Bíblia diferente das que usamos no ocidente, um cânone bíblico de 81 livros utilizado pelas tradições ortodoxas etíopes. Esta coleção é a mais extensa da cristandade, abrangendo um cânone mais restrito de textos padrão e um cânone mais amplo que inclui livros antigos de ordem eclesiástica. Os textos também destacam livros específicos, como Enoque, Jubileus e os três livros de Meqabyan, que são excluídos das Bíblias ocidentais. Além disso, os documentos traçam o desenvolvimento histórico dessas coleções por meio de antigos sínodos e dos influentes escritos dos Padres da Igreja Primitiva.
 
 Um glossário com os principais conceitos aprendidos;
 
