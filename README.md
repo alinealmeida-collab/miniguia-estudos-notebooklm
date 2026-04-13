@@ -1,4 +1,5 @@
-Contexto e Objetivos: 
+Contexto e Objetivos:
+
 Há um interesse crescente em compreender a Bíblia para além do sentido literal, explorando significados implícitos, simbolismos e conexões entre passagens. Com o uso do Notebook LLM poderei apoiar análises de forma estruturada, integrando diferentes perspectivas interpretativas. Tendo como objetivo, desenvolver um Notebook LLM que auxilie na identificação e interpretação de elementos não explícitos da Bíblia, gerando insights de forma organizada e fundamentada.
 
 Curadoria de Fontes: 
