@@ -12,10 +12,13 @@ Curadoria de Fontes:
 
 4 - https://en.wikipedia.org/wiki/Orthodox_Tewahedo_biblical_canon
 
-Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
+Engenharia de Prompts e "Cicatrizes":
+
+Não me aprofundei em prompts complexos, somente em perguntas pontuais. Entretanto, um ponto interessante foi ao usar o prompt "O que diz o livro Trabalho da Bíblia Etíope?". Não havia percebido que as principais fontes sobre o assunto haviam dado erro no carregamento. Desta forma, a resposta da IA foi super negativa e abrangeu outros assuntos dentro dos livros. Entretanto, quando ajustei as fontes e pedi "Refaça a busca", a resposta sobre o livro Trabalho continuou negativa. Entretanto, a escrita veio melhor estruturada e com mais informações. 
 
 Miniguia de Estudo (Entrega Final):
 Resumos estruturados do assunto:
+
 Há uma Bíblia diferente das que usamos no ocidente, um cânone bíblico de 81 livros utilizado pelas tradições ortodoxas etíopes. Esta coleção é a mais extensa da cristandade, abrangendo um cânone mais restrito de textos padrão e um cânone mais amplo que inclui livros antigos de ordem eclesiástica. Os textos também destacam livros específicos, como Enoque, Jubileus e os três livros de Meqabyan, que são excluídos das Bíblias ocidentais. Além disso, os documentos traçam o desenvolvimento histórico dessas coleções por meio de antigos sínodos e dos influentes escritos dos Padres da Igreja Primitiva.
 
 Um glossário com os principais conceitos aprendidos:
@@ -35,4 +38,6 @@ Um glossário com os principais conceitos aprendidos:
 7 - Sinodos (Sinodos): Uma coleção de quatro livros que tratam da ordem eclesiástica e regras de conduta, atribuídas aos Apóstolos e fundamentais para a governança da Igreja.
 
 
-Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
+Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema:
+
+Não me aprofundei em prompts complexos, somente em perguntas pontuais.
